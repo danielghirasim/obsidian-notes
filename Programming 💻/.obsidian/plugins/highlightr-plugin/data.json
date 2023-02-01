@@ -1,0 +1,16 @@
+{
+  "highlighterStyle": "rounded",
+  "highlighterMethods": "css-classes",
+  "highlighters": {
+    "coolPurple": "#8086f9",
+    "coolGreen": "#50fa7b",
+    "coolPink": "#ff79c6",
+    "coolOrange": "#ffb477"
+  },
+  "highlighterOrder": [
+    "coolGreen",
+    "coolPink",
+    "coolPurple",
+    "coolOrange"
+  ]
+}
